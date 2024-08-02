@@ -1,0 +1,2741 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26250076293945, 53.3409271240234]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "1",
+        "last_reported": 1721809231,
+        "num_bikes_available": 12,
+        "num_docks_available": 19,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809231,
+        "name": "CLARENDON ROW",
+        "short_name": "",
+        "address": "Clarendon Row",
+        "region_id": "",
+        "capacity": 31,
+        "last_reported_dt": "2024-07-24 08:20:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26680183410645, 53.3440055847168]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "10",
+        "last_reported": 1721809489,
+        "num_bikes_available": 9,
+        "num_docks_available": 7,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809489,
+        "name": "DAME STREET",
+        "short_name": "",
+        "address": "Dame Street",
+        "region_id": "",
+        "capacity": 16,
+        "last_reported_dt": "2024-07-24 08:24:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.29204082489014, 53.3471069335938]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "100",
+        "last_reported": 1721809420,
+        "num_bikes_available": 0,
+        "num_docks_available": 25,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809420,
+        "name": "HEUSTON BRIDGE (SOUTH)",
+        "short_name": "",
+        "address": "Heuston Bridge (South)",
+        "region_id": "",
+        "capacity": 25,
+        "last_reported_dt": "2024-07-24 08:23:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2735071182251, 53.3502922058106]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "101",
+        "last_reported": 1721809762,
+        "num_bikes_available": 9,
+        "num_docks_available": 20,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809762,
+        "name": "KING STREET NORTH",
+        "short_name": "",
+        "address": "King Street North",
+        "region_id": "",
+        "capacity": 30,
+        "last_reported_dt": "2024-07-24 08:29:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26942491531372, 53.3549308776856]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "102",
+        "last_reported": 1721809191,
+        "num_bikes_available": 14,
+        "num_docks_available": 26,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809191,
+        "name": "WESTERN WAY",
+        "short_name": "",
+        "address": "Western Way",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:19:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2786808013916, 53.354663848877]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "103",
+        "last_reported": 1721809365,
+        "num_bikes_available": 4,
+        "num_docks_available": 36,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809365,
+        "name": "GRANGEGORMAN LOWER (SOUTH)",
+        "short_name": "",
+        "address": "Grangegorman Lower (South)",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:22:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27842378616333, 53.3551712036133]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "104",
+        "last_reported": 1721809299,
+        "num_bikes_available": 1,
+        "num_docks_available": 39,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809299,
+        "name": "GRANGEGORMAN LOWER (CENTRAL)",
+        "short_name": "",
+        "address": "Grangegorman Lower (Central)",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:21:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27837800979614, 53.3559532165527]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "105",
+        "last_reported": 1721809367,
+        "num_bikes_available": 0,
+        "num_docks_available": 36,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809367,
+        "name": "GRANGEGORMAN LOWER (NORTH)",
+        "short_name": "",
+        "address": "Grangegorman Lower (North)",
+        "region_id": "",
+        "capacity": 36,
+        "last_reported_dt": "2024-07-24 08:22:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.28033685684204, 53.3589286804199]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "106",
+        "last_reported": 1721809737,
+        "num_bikes_available": 0,
+        "num_docks_available": 40,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809737,
+        "name": "RATHDOWN ROAD",
+        "short_name": "",
+        "address": "Rathdown Road",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:28:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2818660736084, 53.3591575622559]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "107",
+        "last_reported": 1721809287,
+        "num_bikes_available": 0,
+        "num_docks_available": 40,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809287,
+        "name": "CHARLEVILLE ROAD",
+        "short_name": "",
+        "address": "Charleville Road",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:21:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27614212036133, 53.3594055175781]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "108",
+        "last_reported": 1721809365,
+        "num_bikes_available": 0,
+        "num_docks_available": 35,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809365,
+        "name": "AVONDALE ROAD",
+        "short_name": "",
+        "address": "Avondale Road",
+        "region_id": "",
+        "capacity": 35,
+        "last_reported_dt": "2024-07-24 08:22:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24931907653809, 53.3533325195313]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "109",
+        "last_reported": 1721809779,
+        "num_bikes_available": 16,
+        "num_docks_available": 13,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809779,
+        "name": "BUCKINGHAM STREET LOWER",
+        "short_name": "",
+        "address": "Buckingham Street Lower",
+        "region_id": "",
+        "capacity": 29,
+        "last_reported_dt": "2024-07-24 08:29:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25850296020508, 53.3342933654785]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "11",
+        "last_reported": 1721809741,
+        "num_bikes_available": 21,
+        "num_docks_available": 9,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809741,
+        "name": "EARLSFORT TERRACE",
+        "short_name": "",
+        "address": "Earlsfort Terrace",
+        "region_id": "",
+        "capacity": 30,
+        "last_reported_dt": "2024-07-24 08:29:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27371692657471, 53.3563079833984]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "110",
+        "last_reported": 1721809380,
+        "num_bikes_available": 0,
+        "num_docks_available": 40,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809380,
+        "name": "PHIBSBOROUGH ROAD",
+        "short_name": "",
+        "address": "Phibsborough Road",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:23:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2563591003418, 53.3567161560059]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "111",
+        "last_reported": 1721809763,
+        "num_bikes_available": 1,
+        "num_docks_available": 39,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809763,
+        "name": "MOUNTJOY SQUARE EAST",
+        "short_name": "",
+        "address": "Mountjoy Square East",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:29:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25155687332153, 53.3578414916992]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "112",
+        "last_reported": 1721809508,
+        "num_bikes_available": 1,
+        "num_docks_available": 29,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809508,
+        "name": "NORTH CIRCULAR ROAD (O'CONNELL'S)",
+        "short_name": "",
+        "address": "North Circular Road (O'Connell's)",
+        "region_id": "",
+        "capacity": 30,
+        "last_reported_dt": "2024-07-24 08:25:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24860620498657, 53.3386154174805]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "113",
+        "last_reported": 1721809765,
+        "num_bikes_available": 15,
+        "num_docks_available": 25,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809765,
+        "name": "MERRION SQUARE SOUTH",
+        "short_name": "",
+        "address": "Merrion Square South",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:29:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24834489822388, 53.3336524963379]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "114",
+        "last_reported": 1721809701,
+        "num_bikes_available": 20,
+        "num_docks_available": 20,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809701,
+        "name": "WILTON TERRACE (PARK)",
+        "short_name": "",
+        "address": "Wilton Terrace (Park)",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:28:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2475790977478, 53.3548431396484]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "115",
+        "last_reported": 1721809507,
+        "num_bikes_available": 10,
+        "num_docks_available": 19,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809507,
+        "name": "KILLARNEY STREET",
+        "short_name": "",
+        "address": "Killarney Street",
+        "region_id": "",
+        "capacity": 30,
+        "last_reported_dt": "2024-07-24 08:25:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27231407165527, 53.3546981811523]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "116",
+        "last_reported": 1721809728,
+        "num_bikes_available": 0,
+        "num_docks_available": 30,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809728,
+        "name": "BROADSTONE",
+        "short_name": "",
+        "address": "Broadstone",
+        "region_id": "",
+        "capacity": 30,
+        "last_reported_dt": "2024-07-24 08:28:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.23175477981567, 53.3436546325684]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "117",
+        "last_reported": 1721809342,
+        "num_bikes_available": 35,
+        "num_docks_available": 5,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809342,
+        "name": "HANOVER QUAY EAST",
+        "short_name": "",
+        "address": "Hanover Quay East",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:22:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26977920532227, 53.359245300293]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "12",
+        "last_reported": 1721809197,
+        "num_bikes_available": 0,
+        "num_docks_available": 20,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809197,
+        "name": "ECCLES STREET",
+        "short_name": "",
+        "address": "Eccles Street",
+        "region_id": "",
+        "capacity": 20,
+        "last_reported_dt": "2024-07-24 08:19:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2528247833252, 53.3360748291016]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "13",
+        "last_reported": 1721809715,
+        "num_bikes_available": 12,
+        "num_docks_available": 18,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809715,
+        "name": "FITZWILLIAM SQUARE WEST",
+        "short_name": "",
+        "address": "Fitzwilliam Square West",
+        "region_id": "",
+        "capacity": 30,
+        "last_reported_dt": "2024-07-24 08:28:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26337099075317, 53.3446044921875]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "14",
+        "last_reported": 1721809486,
+        "num_bikes_available": 12,
+        "num_docks_available": 18,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809486,
+        "name": "FOWNES STREET UPPER",
+        "short_name": "",
+        "address": "Fownes Street Upper",
+        "region_id": "",
+        "capacity": 30,
+        "last_reported_dt": "2024-07-24 08:24:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26442289352417, 53.3554725646973]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "15",
+        "last_reported": 1721809414,
+        "num_bikes_available": 6,
+        "num_docks_available": 10,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809414,
+        "name": "HARDWICKE STREET",
+        "short_name": "",
+        "address": "Hardwicke Street",
+        "region_id": "",
+        "capacity": 16,
+        "last_reported_dt": "2024-07-24 08:23:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25219202041626, 53.3475074768066]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "16",
+        "last_reported": 1721809778,
+        "num_bikes_available": 19,
+        "num_docks_available": 1,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809778,
+        "name": "GEORGES QUAY",
+        "short_name": "",
+        "address": "Georges Quay",
+        "region_id": "",
+        "capacity": 20,
+        "last_reported_dt": "2024-07-24 08:29:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2677321434021, 53.3408012390137]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "17",
+        "last_reported": 1721809310,
+        "num_bikes_available": 1,
+        "num_docks_available": 19,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809310,
+        "name": "GOLDEN LANE",
+        "short_name": "",
+        "address": "Golden Lane",
+        "region_id": "",
+        "capacity": 20,
+        "last_reported_dt": "2024-07-24 08:21:50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26543617248535, 53.3341217041016]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "18",
+        "last_reported": 1721809583,
+        "num_bikes_available": 21,
+        "num_docks_available": 9,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809583,
+        "name": "GRANTHAM STREET",
+        "short_name": "",
+        "address": "Grantham Street",
+        "region_id": "",
+        "capacity": 30,
+        "last_reported_dt": "2024-07-24 08:26:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24557495117188, 53.3344306945801]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "19",
+        "last_reported": 1721809758,
+        "num_bikes_available": 30,
+        "num_docks_available": 0,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809758,
+        "name": "HERBERT PLACE",
+        "short_name": "",
+        "address": "Herbert Place",
+        "region_id": "",
+        "capacity": 30,
+        "last_reported_dt": "2024-07-24 08:29:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26813983917236, 53.3567695617676]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "2",
+        "last_reported": 1721809419,
+        "num_bikes_available": 0,
+        "num_docks_available": 20,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809419,
+        "name": "BLESSINGTON STREET",
+        "short_name": "",
+        "address": "Blessington Street",
+        "region_id": "",
+        "capacity": 20,
+        "last_reported_dt": "2024-07-24 08:23:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24810886383057, 53.336597442627]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "20",
+        "last_reported": 1721809378,
+        "num_bikes_available": 30,
+        "num_docks_available": 0,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809378,
+        "name": "JAMES STREET EAST",
+        "short_name": "",
+        "address": "James Street East",
+        "region_id": "",
+        "capacity": 30,
+        "last_reported_dt": "2024-07-24 08:22:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25448513031006, 53.3421783447266]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "21",
+        "last_reported": 1721809242,
+        "num_bikes_available": 12,
+        "num_docks_available": 18,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809242,
+        "name": "LEINSTER STREET SOUTH",
+        "short_name": "",
+        "address": "Leinster Street South",
+        "region_id": "",
+        "capacity": 30,
+        "last_reported_dt": "2024-07-24 08:20:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25461387634277, 53.3459205627441]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "22",
+        "last_reported": 1721809735,
+        "num_bikes_available": 3,
+        "num_docks_available": 16,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809735,
+        "name": "TOWNSEND STREET",
+        "short_name": "",
+        "address": "Townsend Street",
+        "region_id": "",
+        "capacity": 20,
+        "last_reported_dt": "2024-07-24 08:28:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25466203689575, 53.3482780456543]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "23",
+        "last_reported": 1721809724,
+        "num_bikes_available": 27,
+        "num_docks_available": 2,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809724,
+        "name": "CUSTOM HOUSE",
+        "short_name": "",
+        "address": "Custom House",
+        "region_id": "",
+        "capacity": 30,
+        "last_reported_dt": "2024-07-24 08:28:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26053285598755, 53.3521499633789]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "24",
+        "last_reported": 1721809349,
+        "num_bikes_available": 0,
+        "num_docks_available": 20,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809349,
+        "name": "CATHAL BRUGHA STREET",
+        "short_name": "",
+        "address": "Cathal Brugha Street",
+        "region_id": "",
+        "capacity": 20,
+        "last_reported_dt": "2024-07-24 08:22:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24654817581177, 53.3394355773926]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "25",
+        "last_reported": 1721809458,
+        "num_bikes_available": 12,
+        "num_docks_available": 17,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809458,
+        "name": "MERRION SQUARE EAST",
+        "short_name": "",
+        "address": "Merrion Square East",
+        "region_id": "",
+        "capacity": 30,
+        "last_reported_dt": "2024-07-24 08:24:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25198793411255, 53.3397636413574]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "26",
+        "last_reported": 1721809487,
+        "num_bikes_available": 12,
+        "num_docks_available": 8,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809487,
+        "name": "MERRION SQUARE WEST",
+        "short_name": "",
+        "address": "Merrion Square West",
+        "region_id": "",
+        "capacity": 20,
+        "last_reported_dt": "2024-07-24 08:24:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25811719894409, 53.3412895202637]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "27",
+        "last_reported": 1721809367,
+        "num_bikes_available": 8,
+        "num_docks_available": 12,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809367,
+        "name": "MOLESWORTH STREET",
+        "short_name": "",
+        "address": "Molesworth Street",
+        "region_id": "",
+        "capacity": 20,
+        "last_reported_dt": "2024-07-24 08:22:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25858592987061, 53.3563003540039]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "28",
+        "last_reported": 1721809456,
+        "num_bikes_available": 18,
+        "num_docks_available": 12,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809456,
+        "name": "MOUNTJOY SQUARE WEST",
+        "short_name": "",
+        "address": "Mountjoy Square West",
+        "region_id": "",
+        "capacity": 30,
+        "last_reported_dt": "2024-07-24 08:24:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26800107955933, 53.3460578918457]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "29",
+        "last_reported": 1721809357,
+        "num_bikes_available": 19,
+        "num_docks_available": 10,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809357,
+        "name": "ORMOND QUAY UPPER",
+        "short_name": "",
+        "address": "Ormond Quay Upper",
+        "region_id": "",
+        "capacity": 29,
+        "last_reported_dt": "2024-07-24 08:22:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26985883712769, 53.3511810302734]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "3",
+        "last_reported": 1721809274,
+        "num_bikes_available": 6,
+        "num_docks_available": 14,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809274,
+        "name": "BOLTON STREET",
+        "short_name": "",
+        "address": "Bolton Street",
+        "region_id": "",
+        "capacity": 20,
+        "last_reported_dt": "2024-07-24 08:21:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26530122756958, 53.3537406921387]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "30",
+        "last_reported": 1721809651,
+        "num_bikes_available": 7,
+        "num_docks_available": 13,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809651,
+        "name": "PARNELL SQUARE NORTH",
+        "short_name": "",
+        "address": "Parnell Square North",
+        "region_id": "",
+        "capacity": 20,
+        "last_reported_dt": "2024-07-24 08:27:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26512479782105, 53.3509292602539]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "31",
+        "last_reported": 1721809747,
+        "num_bikes_available": 7,
+        "num_docks_available": 13,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809747,
+        "name": "PARNELL STREET",
+        "short_name": "",
+        "address": "Parnell Street",
+        "region_id": "",
+        "capacity": 20,
+        "last_reported_dt": "2024-07-24 08:29:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25042724609375, 53.3443031311035]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "32",
+        "last_reported": 1721809389,
+        "num_bikes_available": 0,
+        "num_docks_available": 30,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809389,
+        "name": "PEARSE STREET",
+        "short_name": "",
+        "address": "Pearse Street",
+        "region_id": "",
+        "capacity": 30,
+        "last_reported_dt": "2024-07-24 08:23:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26031112670898, 53.3490142822266]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "33",
+        "last_reported": 1721809270,
+        "num_bikes_available": 22,
+        "num_docks_available": 1,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809270,
+        "name": "PRINCES STREET / O'CONNELL STREET",
+        "short_name": "",
+        "address": "Princes Street / O'Connell Street",
+        "region_id": "",
+        "capacity": 23,
+        "last_reported_dt": "2024-07-24 08:21:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2651629447937, 53.3303604125977]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "34",
+        "last_reported": 1721809658,
+        "num_bikes_available": 2,
+        "num_docks_available": 28,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809658,
+        "name": "PORTOBELLO HARBOUR",
+        "short_name": "",
+        "address": "Portobello Harbour",
+        "region_id": "",
+        "capacity": 30,
+        "last_reported_dt": "2024-07-24 08:27:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27821397781372, 53.3476905822754]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "35",
+        "last_reported": 1721809398,
+        "num_bikes_available": 4,
+        "num_docks_available": 26,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809398,
+        "name": "SMITHFIELD",
+        "short_name": "",
+        "address": "Smithfield",
+        "region_id": "",
+        "capacity": 30,
+        "last_reported_dt": "2024-07-24 08:23:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25603485107422, 53.3378257751465]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "36",
+        "last_reported": 1721809375,
+        "num_bikes_available": 12,
+        "num_docks_available": 27,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809375,
+        "name": "ST. STEPHEN'S GREEN EAST",
+        "short_name": "",
+        "address": "St. Stephen's Green East",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:22:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26199007034302, 53.3374938964844]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "37",
+        "last_reported": 1721809192,
+        "num_bikes_available": 1,
+        "num_docks_available": 29,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809192,
+        "name": "ST. STEPHEN'S GREEN SOUTH",
+        "short_name": "",
+        "address": "St. Stephen's Green South",
+        "region_id": "",
+        "capacity": 30,
+        "last_reported_dt": "2024-07-24 08:19:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25294017791748, 53.3509750366211]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "38",
+        "last_reported": 1721809340,
+        "num_bikes_available": 20,
+        "num_docks_available": 20,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809340,
+        "name": "TALBOT STREET",
+        "short_name": "",
+        "address": "Talbot Street",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:22:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25271701812744, 53.3323822021484]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "39",
+        "last_reported": 1721809481,
+        "num_bikes_available": 1,
+        "num_docks_available": 19,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809481,
+        "name": "WILTON TERRACE",
+        "short_name": "",
+        "address": "Wilton Terrace",
+        "region_id": "",
+        "capacity": 20,
+        "last_reported_dt": "2024-07-24 08:24:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27297592163086, 53.3468742370606]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "4",
+        "last_reported": 1721809468,
+        "num_bikes_available": 20,
+        "num_docks_available": 0,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809468,
+        "name": "GREEK STREET",
+        "short_name": "",
+        "address": "Greek Street",
+        "region_id": "",
+        "capacity": 20,
+        "last_reported_dt": "2024-07-24 08:24:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26665115356445, 53.3483009338379]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "40",
+        "last_reported": 1721809764,
+        "num_bikes_available": 13,
+        "num_docks_available": 7,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809764,
+        "name": "JERVIS STREET",
+        "short_name": "",
+        "address": "Jervis Street",
+        "region_id": "",
+        "capacity": 21,
+        "last_reported_dt": "2024-07-24 08:29:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25794219970703, 53.332763671875]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "41",
+        "last_reported": 1721809762,
+        "num_bikes_available": 5,
+        "num_docks_available": 15,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809762,
+        "name": "HARCOURT TERRACE",
+        "short_name": "",
+        "address": "Harcourt Terrace",
+        "region_id": "",
+        "capacity": 20,
+        "last_reported_dt": "2024-07-24 08:29:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2781982421875, 53.3495635986328]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "42",
+        "last_reported": 1721809482,
+        "num_bikes_available": 5,
+        "num_docks_available": 25,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809482,
+        "name": "SMITHFIELD NORTH",
+        "short_name": "",
+        "address": "Smithfield North",
+        "region_id": "",
+        "capacity": 30,
+        "last_reported_dt": "2024-07-24 08:24:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26804399490356, 53.3300895690918]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "43",
+        "last_reported": 1721809409,
+        "num_bikes_available": 1,
+        "num_docks_available": 29,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809409,
+        "name": "PORTOBELLO ROAD",
+        "short_name": "",
+        "address": "Portobello Road",
+        "region_id": "",
+        "capacity": 30,
+        "last_reported_dt": "2024-07-24 08:23:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26064109802246, 53.3584365844727]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "44",
+        "last_reported": 1721809724,
+        "num_bikes_available": 5,
+        "num_docks_available": 25,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809724,
+        "name": "UPPER SHERRARD STREET",
+        "short_name": "",
+        "address": "Upper Sherrard Street",
+        "region_id": "",
+        "capacity": 30,
+        "last_reported_dt": "2024-07-24 08:28:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25526523590088, 53.3514633178711]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "45",
+        "last_reported": 1721809660,
+        "num_bikes_available": 19,
+        "num_docks_available": 10,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809660,
+        "name": "DEVERELL PLACE",
+        "short_name": "",
+        "address": "Deverell Place",
+        "region_id": "",
+        "capacity": 30,
+        "last_reported_dt": "2024-07-24 08:27:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24551010131836, 53.3357429504395]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "47",
+        "last_reported": 1721809527,
+        "num_bikes_available": 14,
+        "num_docks_available": 26,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809527,
+        "name": "HERBERT STREET",
+        "short_name": "",
+        "address": "Herbert Street",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:25:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24423885345459, 53.3477783203125]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "48",
+        "last_reported": 1721809337,
+        "num_bikes_available": 14,
+        "num_docks_available": 26,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809337,
+        "name": "EXCISE WALK",
+        "short_name": "",
+        "address": "Excise Walk",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:22:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24092817306519, 53.3479309082031]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "49",
+        "last_reported": 1721809633,
+        "num_bikes_available": 10,
+        "num_docks_available": 27,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809633,
+        "name": "GUILD STREET",
+        "short_name": "",
+        "address": "Guild Street",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:27:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26017713546753, 53.3306617736816]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "5",
+        "last_reported": 1721809766,
+        "num_bikes_available": 7,
+        "num_docks_available": 33,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809766,
+        "name": "CHARLEMONT PLACE",
+        "short_name": "",
+        "address": "Charlemont Street",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:29:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27969598770142, 53.3502311706543]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "50",
+        "last_reported": 1721809661,
+        "num_bikes_available": 5,
+        "num_docks_available": 34,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809661,
+        "name": "GEORGES LANE",
+        "short_name": "",
+        "address": "George's Lane",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:27:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26469898223877, 53.3393325805664]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "51",
+        "last_reported": 1721809722,
+        "num_bikes_available": 0,
+        "num_docks_available": 0,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809722,
+        "name": "YORK STREET WEST",
+        "short_name": "",
+        "address": "York Street West",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:28:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26200294494629, 53.3387565612793]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "52",
+        "last_reported": 1721809398,
+        "num_bikes_available": 17,
+        "num_docks_available": 15,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809398,
+        "name": "YORK STREET EAST",
+        "short_name": "",
+        "address": "York Street East",
+        "region_id": "",
+        "capacity": 32,
+        "last_reported_dt": "2024-07-24 08:23:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26059007644653, 53.3371315002441]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "53",
+        "last_reported": 1721809460,
+        "num_bikes_available": 11,
+        "num_docks_available": 28,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809460,
+        "name": "NEWMAN HOUSE",
+        "short_name": "",
+        "address": "Newman House",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:24:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26297998428345, 53.3360214233398]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "54",
+        "last_reported": 1721809313,
+        "num_bikes_available": 18,
+        "num_docks_available": 14,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809313,
+        "name": "CLONMEL STREET",
+        "short_name": "",
+        "address": "Clonmel Street",
+        "region_id": "",
+        "capacity": 33,
+        "last_reported_dt": "2024-07-24 08:21:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26071405410767, 53.3340301513672]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "55",
+        "last_reported": 1721809560,
+        "num_bikes_available": 28,
+        "num_docks_available": 8,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809560,
+        "name": "HATCH STREET",
+        "short_name": "",
+        "address": "Hatch Street",
+        "region_id": "",
+        "capacity": 36,
+        "last_reported_dt": "2024-07-24 08:26:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24152994155884, 53.3379592895508]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "56",
+        "last_reported": 1721809781,
+        "num_bikes_available": 7,
+        "num_docks_available": 33,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809781,
+        "name": "MOUNT STREET LOWER",
+        "short_name": "",
+        "address": "Mount Street Lower",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:29:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24377822875977, 53.3396301269531]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "57",
+        "last_reported": 1721809661,
+        "num_bikes_available": 19,
+        "num_docks_available": 4,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809661,
+        "name": "GRATTAN STREET",
+        "short_name": "",
+        "address": "Grattan Street",
+        "region_id": "",
+        "capacity": 23,
+        "last_reported_dt": "2024-07-24 08:27:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24064207077026, 53.3392181396484]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "58",
+        "last_reported": 1721809680,
+        "num_bikes_available": 23,
+        "num_docks_available": 17,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809680,
+        "name": "SIR PATRICK DUN'S",
+        "short_name": "",
+        "address": "Sir Patrick's Dun",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:28:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26139688491821, 53.3556098937988]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "59",
+        "last_reported": 1721809591,
+        "num_bikes_available": 3,
+        "num_docks_available": 17,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809591,
+        "name": "DENMARK STREET GREAT",
+        "short_name": "",
+        "address": "Denmark Street Great",
+        "region_id": "",
+        "capacity": 20,
+        "last_reported_dt": "2024-07-24 08:26:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27012014389038, 53.3433685302734]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "6",
+        "last_reported": 1721809775,
+        "num_bikes_available": 2,
+        "num_docks_available": 18,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809775,
+        "name": "CHRISTCHURCH PLACE",
+        "short_name": "",
+        "address": "Christchurch Place",
+        "region_id": "",
+        "capacity": 20,
+        "last_reported_dt": "2024-07-24 08:29:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26034784317017, 53.3596229553223]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "60",
+        "last_reported": 1721809620,
+        "num_bikes_available": 1,
+        "num_docks_available": 29,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809620,
+        "name": "NORTH CIRCULAR ROAD",
+        "short_name": "",
+        "address": "North Circular Road",
+        "region_id": "",
+        "capacity": 30,
+        "last_reported_dt": "2024-07-24 08:27:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26323223114014, 53.3570442199707]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "61",
+        "last_reported": 1721809729,
+        "num_bikes_available": 2,
+        "num_docks_available": 23,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809729,
+        "name": "HARDWICKE PLACE",
+        "short_name": "",
+        "address": "Hardwicke Place",
+        "region_id": "",
+        "capacity": 25,
+        "last_reported_dt": "2024-07-24 08:28:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24357604980469, 53.3460273742676]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "62",
+        "last_reported": 1721809563,
+        "num_bikes_available": 18,
+        "num_docks_available": 20,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809563,
+        "name": "LIME STREET",
+        "short_name": "",
+        "address": "Lime Street",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:26:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24671983718872, 53.3414268493652]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "63",
+        "last_reported": 1721809274,
+        "num_bikes_available": 4,
+        "num_docks_available": 31,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809274,
+        "name": "FENIAN STREET",
+        "short_name": "",
+        "address": "Fenian Street",
+        "region_id": "",
+        "capacity": 35,
+        "last_reported_dt": "2024-07-24 08:21:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24716281890869, 53.3452033996582]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "64",
+        "last_reported": 1721809620,
+        "num_bikes_available": 13,
+        "num_docks_available": 27,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809620,
+        "name": "SANDWITH STREET",
+        "short_name": "",
+        "address": "Sandwith Street",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:27:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.23852300643921, 53.3474388122559]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "65",
+        "last_reported": 1721809731,
+        "num_bikes_available": 38,
+        "num_docks_available": 1,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809731,
+        "name": "CONVENTION CENTRE",
+        "short_name": "",
+        "address": "Convention Centre",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:28:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.23474884033203, 53.3471221923828]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "66",
+        "last_reported": 1721809330,
+        "num_bikes_available": 38,
+        "num_docks_available": 0,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809330,
+        "name": "NEW CENTRAL BANK",
+        "short_name": "",
+        "address": "New Central Bank",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:22:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2308521270752, 53.346866607666]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "67",
+        "last_reported": 1721809279,
+        "num_bikes_available": 17,
+        "num_docks_available": 23,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809279,
+        "name": "THE POINT",
+        "short_name": "",
+        "address": "The Point",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:21:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.23715305328369, 53.3441162109375]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "68",
+        "last_reported": 1721809670,
+        "num_bikes_available": 29,
+        "num_docks_available": 11,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809670,
+        "name": "HANOVER QUAY",
+        "short_name": "",
+        "address": "Hanover Quay",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:27:50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.23869514465332, 53.3426361083984]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "69",
+        "last_reported": 1721809631,
+        "num_bikes_available": 35,
+        "num_docks_available": 4,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809631,
+        "name": "GRAND CANAL DOCK",
+        "short_name": "",
+        "address": "Grand Canal Dock",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:27:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.275071144104, 53.3435668945313]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "7",
+        "last_reported": 1721809340,
+        "num_bikes_available": 0,
+        "num_docks_available": 29,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809340,
+        "name": "HIGH STREET",
+        "short_name": "",
+        "address": "High Street",
+        "region_id": "",
+        "capacity": 29,
+        "last_reported_dt": "2024-07-24 08:22:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26769924163818, 53.3377571105957]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "71",
+        "last_reported": 1721809773,
+        "num_bikes_available": 6,
+        "num_docks_available": 34,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809773,
+        "name": "KEVIN STREET",
+        "short_name": "",
+        "address": "Kevin Street",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:29:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27716684341431, 53.3431053161621]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "72",
+        "last_reported": 1721809285,
+        "num_bikes_available": 1,
+        "num_docks_available": 30,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809285,
+        "name": "JOHN STREET WEST",
+        "short_name": "",
+        "address": "John Street West",
+        "region_id": "",
+        "capacity": 31,
+        "last_reported_dt": "2024-07-24 08:21:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.27523279190064, 53.3420791625977]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "73",
+        "last_reported": 1721809391,
+        "num_bikes_available": 1,
+        "num_docks_available": 29,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809391,
+        "name": "FRANCIS STREET",
+        "short_name": "",
+        "address": "Francis Street",
+        "region_id": "",
+        "capacity": 30,
+        "last_reported_dt": "2024-07-24 08:23:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.28053092956543, 53.3438911437988]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "74",
+        "last_reported": 1721809579,
+        "num_bikes_available": 18,
+        "num_docks_available": 12,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809579,
+        "name": "OLIVER BOND STREET",
+        "short_name": "",
+        "address": "Oliver Bond Street",
+        "region_id": "",
+        "capacity": 30,
+        "last_reported_dt": "2024-07-24 08:26:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.28740882873535, 53.3434562683106]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "75",
+        "last_reported": 1721809781,
+        "num_bikes_available": 21,
+        "num_docks_available": 18,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809781,
+        "name": "JAMES STREET",
+        "short_name": "",
+        "address": "James Street",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:29:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.28766107559204, 53.3422966003418]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "76",
+        "last_reported": 1721809764,
+        "num_bikes_available": 1,
+        "num_docks_available": 36,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809764,
+        "name": "MARKET STREET SOUTH",
+        "short_name": "",
+        "address": "Market Street South",
+        "region_id": "",
+        "capacity": 38,
+        "last_reported_dt": "2024-07-24 08:29:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26745891571045, 53.3488731384277]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "77",
+        "last_reported": 1721809192,
+        "num_bikes_available": 4,
+        "num_docks_available": 25,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809192,
+        "name": "WOLFE TONE STREET",
+        "short_name": "",
+        "address": "Wolfe Tone Street",
+        "region_id": "",
+        "capacity": 29,
+        "last_reported_dt": "2024-07-24 08:19:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26482820510864, 53.3599662780762]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "78",
+        "last_reported": 1721809261,
+        "num_bikes_available": 0,
+        "num_docks_available": 40,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809261,
+        "name": "MATER HOSPITAL",
+        "short_name": "",
+        "address": "Mater Hospital",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:21:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26560115814209, 53.3581161499023]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "79",
+        "last_reported": 1721809477,
+        "num_bikes_available": 9,
+        "num_docks_available": 18,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809477,
+        "name": "ECCLES STREET EAST",
+        "short_name": "",
+        "address": "Eccles Street East",
+        "region_id": "",
+        "capacity": 27,
+        "last_reported_dt": "2024-07-24 08:24:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24804782867432, 53.3478851318359]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "8",
+        "last_reported": 1721809605,
+        "num_bikes_available": 3,
+        "num_docks_available": 27,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809605,
+        "name": "CUSTOM HOUSE QUAY",
+        "short_name": "",
+        "address": "Custom House Quay",
+        "region_id": "",
+        "capacity": 30,
+        "last_reported_dt": "2024-07-24 08:26:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.29295110702515, 53.3413581848145]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "80",
+        "last_reported": 1721809377,
+        "num_bikes_available": 23,
+        "num_docks_available": 17,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809377,
+        "name": "ST JAMES HOSPITAL (LUAS)",
+        "short_name": "",
+        "address": "St James Hospital (Luas)",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:22:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.29719018936157, 53.3416442871094]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "82",
+        "last_reported": 1721809378,
+        "num_bikes_available": 5,
+        "num_docks_available": 17,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809378,
+        "name": "MOUNT BROWN",
+        "short_name": "",
+        "address": "Mount Brown",
+        "region_id": "",
+        "capacity": 22,
+        "last_reported_dt": "2024-07-24 08:22:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.30819082260132, 53.3407135009766]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "83",
+        "last_reported": 1721809267,
+        "num_bikes_available": 10,
+        "num_docks_available": 30,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809267,
+        "name": "EMMET ROAD",
+        "short_name": "",
+        "address": "Emmet Road",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:21:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.30021715164185, 53.3390045166016]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "84",
+        "last_reported": 1721809343,
+        "num_bikes_available": 4,
+        "num_docks_available": 26,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809343,
+        "name": "BROOKFIELD ROAD",
+        "short_name": "",
+        "address": "Brookfield Road",
+        "region_id": "",
+        "capacity": 30,
+        "last_reported_dt": "2024-07-24 08:22:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.30394983291626, 53.3387756347656]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "85",
+        "last_reported": 1721809478,
+        "num_bikes_available": 6,
+        "num_docks_available": 29,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809478,
+        "name": "ROTHE ABBEY",
+        "short_name": "",
+        "address": "Rothe Abbey",
+        "region_id": "",
+        "capacity": 35,
+        "last_reported_dt": "2024-07-24 08:24:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.29180383682251, 53.3479728698731]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "86",
+        "last_reported": 1721809179,
+        "num_bikes_available": 6,
+        "num_docks_available": 31,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809179,
+        "name": "PARKGATE STREET",
+        "short_name": "",
+        "address": "Parkgate Street",
+        "region_id": "",
+        "capacity": 38,
+        "last_reported_dt": "2024-07-24 08:19:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.28525018692017, 53.3474769592285]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "87",
+        "last_reported": 1721809221,
+        "num_bikes_available": 6,
+        "num_docks_available": 32,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809221,
+        "name": "COLLINS BARRACKS MUSEUM",
+        "short_name": "",
+        "address": "Collins Barracks Museum",
+        "region_id": "",
+        "capacity": 38,
+        "last_reported_dt": "2024-07-24 08:20:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.28163719177246, 53.3488006591797]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "88",
+        "last_reported": 1721809281,
+        "num_bikes_available": 13,
+        "num_docks_available": 17,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809281,
+        "name": "BLACKHALL PLACE",
+        "short_name": "",
+        "address": "Blackhall Place",
+        "region_id": "",
+        "capacity": 30,
+        "last_reported_dt": "2024-07-24 08:21:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.25089979171753, 53.3352127075195]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "89",
+        "last_reported": 1721809717,
+        "num_bikes_available": 10,
+        "num_docks_available": 30,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809717,
+        "name": "FITZWILLIAM SQUARE EAST",
+        "short_name": "",
+        "address": "Fitzwilliam Square East",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:28:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.26357793807983, 53.3430328369141]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "9",
+        "last_reported": 1721809771,
+        "num_bikes_available": 18,
+        "num_docks_available": 6,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809771,
+        "name": "EXCHEQUER STREET",
+        "short_name": "",
+        "address": "Exchequer Street",
+        "region_id": "",
+        "capacity": 24,
+        "last_reported_dt": "2024-07-24 08:29:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2334508895874, 53.3441543579102]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "90",
+        "last_reported": 1721809745,
+        "num_bikes_available": 31,
+        "num_docks_available": 8,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809745,
+        "name": "BENSON STREET",
+        "short_name": "",
+        "address": "Benson Street",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:29:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.23129081726074, 53.3418312072754]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "91",
+        "last_reported": 1721809557,
+        "num_bikes_available": 18,
+        "num_docks_available": 12,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809557,
+        "name": "SOUTH DOCK ROAD",
+        "short_name": "",
+        "address": "South Dock Road",
+        "region_id": "",
+        "capacity": 30,
+        "last_reported_dt": "2024-07-24 08:25:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.29243183135986, 53.3478012084961]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "92",
+        "last_reported": 1721809308,
+        "num_bikes_available": 16,
+        "num_docks_available": 24,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809308,
+        "name": "HEUSTON BRIDGE (NORTH)",
+        "short_name": "",
+        "address": "Heuston Bridge (North)",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:21:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2969241142273, 53.3466033935547]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "93",
+        "last_reported": 1721809294,
+        "num_bikes_available": 1,
+        "num_docks_available": 39,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809294,
+        "name": "HEUSTON STATION (CENTRAL)",
+        "short_name": "",
+        "address": "Heuston Station (Central)",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:21:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.29780387878418, 53.3469848632813]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "94",
+        "last_reported": 1721809314,
+        "num_bikes_available": 0,
+        "num_docks_available": 40,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809314,
+        "name": "HEUSTON STATION (CAR PARK)",
+        "short_name": "",
+        "address": "Heuston Station (Car Park)",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:21:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.29706001281738, 53.3438987731934]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "95",
+        "last_reported": 1721809431,
+        "num_bikes_available": 4,
+        "num_docks_available": 36,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809431,
+        "name": "ROYAL HOSPITAL",
+        "short_name": "",
+        "address": "Royal Hospital",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:23:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.30508518218994, 53.3418045043945]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "96",
+        "last_reported": 1721809740,
+        "num_bikes_available": 6,
+        "num_docks_available": 24,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809740,
+        "name": "KILMAINHAM LANE",
+        "short_name": "",
+        "address": "Kilmainham Lane",
+        "region_id": "",
+        "capacity": 30,
+        "last_reported_dt": "2024-07-24 08:29:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.3100152015686, 53.3421134948731]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "97",
+        "last_reported": 1721809221,
+        "num_bikes_available": 6,
+        "num_docks_available": 34,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809221,
+        "name": "KILMAINHAM GAOL",
+        "short_name": "",
+        "address": "Kilmainham Gaol",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:20:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2568531036377, 53.3415145874023]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "98",
+        "last_reported": 1721809589,
+        "num_bikes_available": 13,
+        "num_docks_available": 27,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809589,
+        "name": "FREDERICK STREET SOUTH",
+        "short_name": "",
+        "address": "Frederick Street South",
+        "region_id": "",
+        "capacity": 40,
+        "last_reported_dt": "2024-07-24 08:26:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.24615383148193, 53.3466377258301]
+      },
+      "properties": {
+        "system_id": "dublin_bikes",
+        "station_id": "99",
+        "last_reported": 1721809328,
+        "num_bikes_available": 13,
+        "num_docks_available": 17,
+        "is_installed": true,
+        "is_renting": true,
+        "is_returning": true,
+        "last_updated": 1721809328,
+        "name": "CITY QUAY",
+        "short_name": "",
+        "address": "City Quay",
+        "region_id": "",
+        "capacity": 30,
+        "last_reported_dt": "2024-07-24 08:22:08"
+      }
+    }
+  ]
+}
